@@ -1,4 +1,4 @@
-# minimal_chats
+# chat
 
 A new Flutter project.
 
