@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "103311865411",
+    "project_id": "ayoub-3c814",
+    "storage_bucket": "ayoub-3c814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103311865411:android:2cfb4ecec3eca7a84606f6",
+        "android_client_info": {
+          "package_name": "com.example.connection_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtuKzhyNhlOJLTcudn9aP5g-DweVfQ1ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103311865411:android:36941988c059eeb24606f6",
+        "android_client_info": {
+          "package_name": "com.example.minimal_chats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtuKzhyNhlOJLTcudn9aP5g-DweVfQ1ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103311865411:android:262973ef27e6f7f74606f6",
+        "android_client_info": {
+          "package_name": "com.example.otp_phone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtuKzhyNhlOJLTcudn9aP5g-DweVfQ1ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
